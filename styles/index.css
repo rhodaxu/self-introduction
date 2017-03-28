@@ -1,0 +1,59 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  background: #eee;
+  font-family: Microsoft YaHei;
+  overflow-x: hidden;
+  font-size:20px;
+  position: relative;
+  height:2000px;
+  overflow-y: scroll;
+}
+
+h1 {
+  padding-bottom: 40px;
+}
+
+
+p {
+  text-indent: 2em;
+  line-height: 30px;
+}
+
+
+#about{
+  background: #AAAAAA;
+  padding-top: 150px;
+  padding-bottom: 20px;
+}
+
+#portfolio{
+  text-align: center;
+  color:#aaa;
+}
+
+#contact{
+  text-align: center;
+  color:#aaa;
+}
+
+ul li{
+  height:40px;
+  line-height: 40px;
+}
+
+#navbar-example{
+    float: right;
+    border-bottom: 0px;
+    
+}
+
+.imglist{
+  width:600px;
+  display:block;
+  margin:0 auto;
+  margin-top:20px;
+}
